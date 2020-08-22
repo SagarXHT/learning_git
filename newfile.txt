@@ -1,0 +1,1 @@
+Hello this is just to try out some of the functions of git
